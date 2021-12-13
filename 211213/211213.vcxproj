@@ -140,10 +140,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="study_1.c" />
+    <ClCompile Include="study_10.c" />
+    <ClCompile Include="study_11.c" />
     <ClCompile Include="study_2.c" />
     <ClCompile Include="study_3.c" />
     <ClCompile Include="study_4.c" />
     <ClCompile Include="study_5.c" />
+    <ClCompile Include="study_6.c" />
+    <ClCompile Include="study_7.c" />
+    <ClCompile Include="study_8.c" />
+    <ClCompile Include="study_9.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
